@@ -1,0 +1,28 @@
+body{
+	background-color: #79F8F8;
+}
+h1{
+  text-align: center;
+  
+}
+#Carte_Oran{
+ margin-left: 100px ;
+ border:solid black;
+
+
+}
+
+ .indic{
+ 	background-color: rgba(0,0,0,0.2);
+    color: black;
+   width: 30%;
+ }
+ 
+h3{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+
+
